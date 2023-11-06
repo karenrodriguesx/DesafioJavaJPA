@@ -1,0 +1,133 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+    height: auto;
+}
+
+h2 {
+    font-size: 28px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#form-cadastro {
+    background-color: #f4f4f4;
+    width: 21em;
+    height: auto;
+    padding: 1em;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    box-shadow: 4px 4px 15px 0px #2d2d2d38;
+}
+
+label {
+    width: 75px;
+    display: inline-block;
+    margin-left: 35px;
+    font-size: 16px;
+}
+
+.input-text {
+    margin-bottom: 15px;
+    width: 13em;
+    height: 28px;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 4px 4px 10px 0px #2d2d2d38;
+    padding: 5px;
+}
+
+#botoes {
+    display: inline-block;
+    position: relative;
+    margin-top: 35px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn-form {
+    display: inline-block;
+    background-color: #3597e8;
+    color: #f4f4f4;
+    width: 10em;
+    height: 30px;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 2px 2px 7px 0px #2d2d2d38;
+    font-size: 15px;
+}
+
+.btn-form:hover {
+    color: #000;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*ESTILIZANDO A LISTA DE USUARIOS*/
+
+#div-lista {
+    width: auto;
+    height: auto;
+    background-color: #f4f4f4;
+    padding: 1em;
+    display: inline-block;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    box-shadow: 4px 4px 15px 0px #2d2d2d38;
+    margin-top: 30px;
+}
+
+#lista {
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 28px;
+    text-align: center;
+}
+
+th {
+    border: 0px solid #000;
+    padding: 12px;
+    font-size: 18px;
+}
+
+td {
+    border: 0px solid #000;
+    font-size: 16px;
+    padding: 10px;
+}
+
+
+.btn-lista {
+    background-color: #3597e8;
+    color: #f4f4f4;
+    width: 9em;
+    height: 32px;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 2px 2px 7px 0px #2d2d2d38;
+    position: relative;
+    display: inline-block;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.btn-lista:hover {
+    color: #000;
+}
