@@ -1,4 +1,4 @@
-# CRUD utilizando Hibernate + JPA
+# CRUD utilizando Hibernate + JPA <img align="center" alt="Karen-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><img align="center" alt="Karen-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"><img align="center" alt="Karen-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 
 - Este projeto teve origem a partir de outro projeto, [disponível neste link](https://github.com/karenrodriguesx/desafioJava)
 - O projeto anterior, feito inteiramente JDBC, foi refatorado para Hibernate + JPA, e continua com as mesmas funções e o mesmo Front-End
